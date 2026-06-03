@@ -9,6 +9,7 @@ This project is developed using Spring Boot and Microservices architecture.
 - Order Service
 - Inventory Service
 - Notification Service
+- Common library
 
 ## Technologies Used
 
